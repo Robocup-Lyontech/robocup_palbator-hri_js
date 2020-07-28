@@ -2,6 +2,10 @@
 
 React application for the Palbator Tablet. That application will communicate with the [HRIManager](https://github.com/Robocup-Lyontech/Palbator_devs) to display visual information about the robot state. 
 
+## Contributors
+- Abdeljabar Ferdjani
+- Thomas Curé
+
 ## Install Dependencies
 Node version 10 or above is required
 ```bash
