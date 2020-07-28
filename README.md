@@ -1,8 +1,9 @@
 # robocup_palbator-HRI_JS
 
-Node version 10 or above is required
+React application for the Palbator Tablet. That application will communicate with the [HRIManager](https://github.com/Robocup-Lyontech/Palbator_devs) to display visual information about the robot state. 
 
 ## Install Dependencies
+Node version 10 or above is required
 ```bash
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt-get install -y nodejs
