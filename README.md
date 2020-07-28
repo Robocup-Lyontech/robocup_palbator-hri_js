@@ -3,20 +3,16 @@
 Node version 10 or above is required
 
 ## Install Dependencies
-
-- curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
-- sudo apt-get install -y nodejs
-- Cloner le dépôt puis faire un "npm install"
+```bash
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+Go to the robocup_palbator-hri_js and ``` npm install ```
 
 ## Launch
+```bash
 npm start
-
-
-## Uses
-- Start the palbator python `before` the react
-- Then start the react
-
-
+```
 
 ## Solving error ENOSPC System limit for number of file watchers reached
 
